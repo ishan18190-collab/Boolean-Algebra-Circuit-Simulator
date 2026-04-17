@@ -23,3 +23,9 @@ This repository contains the source code for a Boolean Algebra Circuit Simulator
 1. Clone this repository:
    ```bash
    git clone <your-repository-link-here>
+
+2. pip install sympy
+
+3. python main.py
+
+4. Enter your Boolean expression when prompted (e.g., (A & B) | (~A & C)).
