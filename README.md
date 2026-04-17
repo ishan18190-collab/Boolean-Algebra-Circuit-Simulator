@@ -29,3 +29,7 @@ This repository contains the source code for a Boolean Algebra Circuit Simulator
 3. BASH - python main.py
 
 4. Enter your Boolean expression when prompted (e.g., (A & B) | (~A & C)).
+
+[OR]
+
+Simply run main.py in any IDE
